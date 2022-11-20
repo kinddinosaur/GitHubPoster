@@ -1,0 +1,3 @@
+[!] No more data! Scraping will stop now.
+found 0 deleted tweets in this search.
+['twitter'] poster drawer done in `OUT_FOLDER`
